@@ -1,0 +1,31 @@
+Kaushal Kumar is an AI/ML Engineer and Python Full Stack Developer.
+
+Education:
+B.Tech graduate, 2025.
+
+Current Role:
+Software Engineer at Petpooja.
+
+Skills:
+Python, Django, Flask, FastAPI, REST API, Machine Learning, Deep Learning, NLP, Generative AI, Gemini API, Pandas, NumPy, scikit-learn, TensorFlow, PyTorch, HTML, CSS, JavaScript, PostgreSQL, MySQL, Git, GitHub, Docker, AWS.
+
+Projects:
+1. Medical Insurance Cost Prediction
+- Built using Python, Flask, scikit-learn, Pandas, NumPy.
+- Predicts insurance cost using age, BMI, smoker, region, children, and gender.
+- Achieved high model performance.
+
+2. Customer Churn Prediction
+- Machine learning classification project.
+- Predicts whether a customer may leave or stay.
+
+3. House Price Prediction
+- Regression ML project.
+- Predicts house price using area, bedrooms, bathrooms, stories, parking, and other features.
+
+4. Portfolio Website
+- Built using Django.
+- Includes projects, skills, resume, contact, and chatbot.
+
+Career Goal:
+Kaushal is looking for AI/ML Engineer, GenAI Engineer, Python Developer, and Full Stack Developer roles.
